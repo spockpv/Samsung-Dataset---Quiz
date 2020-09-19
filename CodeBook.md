@@ -6,13 +6,13 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 
 The raw data set was proccessed with the following steps:
 
-* 1. The different raw files with data from the experiment were merged to produce one untidy dataset.
+*  The different raw files with data from the experiment were merged to produce one untidy dataset.
 
-* 2. The measurements on the mean and standard deviation for each measurement were only kept from the dataset.
+*  The measurements on the mean and standard deviation for each measurement were only kept from the dataset.
 
-* 3. The above values were used in order to compute the average of each value for each subject and activity
+*  The above values were used in order to compute the average of each value for each subject and activity
 
-* 4. The apropriate labels were used for each variable, giving the final tidy data set.
+*  The apropriate labels were used for each variable, giving the final tidy data set.
 
 The variables kept in the data set for each subject and activity are as following:
 
@@ -20,32 +20,32 @@ The variables kept in the data set for each subject and activity are as followin
 "tBodyAcc-mean()-X_mean"
 "tBodyAcc-mean()-Y_mean"
 "tBodyAcc-mean()-Z_mean"
-"tBodyAcc-std()-X_mean"               
+"tBodyAcc-std()-X_mean" 
 "tBodyAcc-std()-Y_mean"
-"tBodyAcc-std()-Z_mean"               
+"tBodyAcc-std()-Z_mean"
 "tGravityAcc-mean()-X_mean"
-"tGravityAcc-mean()-Y_mean"           
+"tGravityAcc-mean()-Y_mean"
 "tGravityAcc-mean()-Z_mean"
-"tGravityAcc-std()-X_mean"            
+"tGravityAcc-std()-X_mean"
 "tGravityAcc-std()-Y_mean"
-"tGravityAcc-std()-Z_mean"            
+"tGravityAcc-std()-Z_mean"
 "tBodyAccJerk-mean()-X_mean"
-"tBodyAccJerk-mean()-Y_mean"          
+"tBodyAccJerk-mean()-Y_mean"
 "tBodyAccJerk-mean()-Z_mean"
 "tBodyAccJerk-std()-X_mean"
-"tBodyAccJerk-std()-Y_mean"            
-"tBodyAccJerk-std()-Z_mean"           
-"tBodyGyro-mean()-X_mean"              
-"tBodyGyro-mean()-Y_mean"             
-"tBodyGyro-mean()-Z_mean"              
-"tBodyGyro-std()-X_mean"              
-"tBodyGyro-std()-Y_mean"              
+"tBodyAccJerk-std()-Y_mean"
+"tBodyAccJerk-std()-Z_mean"
+"tBodyGyro-mean()-X_mean"  
+"tBodyGyro-mean()-Y_mean"  
+"tBodyGyro-mean()-Z_mean"  
+"tBodyGyro-std()-X_mean"   
+"tBodyGyro-std()-Y_mean"   
 "tBodyGyro-std()-Z_mean"              
 "tBodyGyroJerk-mean()-X_mean"
-"tBodyGyroJerk-mean()-Y_mean"         
+"tBodyGyroJerk-mean()-Y_mean"
 "tBodyGyroJerk-mean()-Z_mean"
-"tBodyGyroJerk-std()-X_mean"          
-"tBodyGyroJerk-std()-Y_mean"           
+"tBodyGyroJerk-std()-X_mean" 
+"tBodyGyroJerk-std()-Y_mean" 
 "tBodyGyroJerk-std()-Z_mean"          
 "tBodyAccMag-mean()_mean"
 "tBodyAccMag-std()_mean"              
