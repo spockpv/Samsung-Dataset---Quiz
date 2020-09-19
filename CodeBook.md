@@ -1,3 +1,6 @@
+---
+output: github_document
+---
 # Samsung-Dataset---Quiz CODEBOOK
 
 Human Activity Recognition Using Smartphones Data Set
