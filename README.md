@@ -3,7 +3,7 @@
 The script "run_analysis.R" creates a tidy dataset from the given Samsung Dataset. 
 The script requires the **tidyr** package.
 
-After extracting the zipped file -named **"Dataset.zip"** -of the dataset, it uses the "features.txt" file to prepare the vector "col_names" with the variable names.
+After extracting the zipped file -named **"Dataset.zip"**- of the dataset, it uses the "features.txt" file to prepare the vector "col_names" with the variable names.
 
 It creates the "X" data frame containing the joined measurements of both the train and test sets, the "y" data frame containing the joined training labels and the "subjects"" data frame containing the joined ids of the subjects.
 
