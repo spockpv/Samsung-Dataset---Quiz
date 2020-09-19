@@ -1,6 +1,6 @@
 # Samsung-Dataset---Quiz CODEBOOK
 
-<p style="text-align: center;">Human Activity Recognition Using Smartphones Data Set</p>
+##Human Activity Recognition Using Smartphones Data Set
 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. 
 
@@ -16,7 +16,6 @@ The raw data set was proccessed with the following steps:
 
 The variables kept in the data set for each subject and activity are as following:
 
-                      
  tBodyAcc-mean()-X_mean  
  tBodyAcc-mean()-Y_mean  
  tBodyAcc-mean()-Z_mean  
